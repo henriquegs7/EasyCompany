@@ -1,0 +1,1 @@
+export { COSTOMER } from './list'
